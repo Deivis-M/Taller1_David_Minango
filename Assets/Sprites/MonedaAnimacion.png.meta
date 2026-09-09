@@ -1,0 +1,1391 @@
+fileFormatVersion: 2
+guid: 9b042c205c521cb47b0ea124e473564b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3749227994560518110
+    second: MonedaAnimacion_0
+  - first:
+      213: -8737272206790277207
+    second: MonedaAnimacion_1
+  - first:
+      213: -7284962581076570468
+    second: MonedaAnimacion_2
+  - first:
+      213: -3063689368703282972
+    second: MonedaAnimacion_3
+  - first:
+      213: -3872364747009379749
+    second: MonedaAnimacion_4
+  - first:
+      213: 4719099581132782394
+    second: MonedaAnimacion_5
+  - first:
+      213: 223299872658451036
+    second: MonedaAnimacion_6
+  - first:
+      213: 5838455351496971298
+    second: MonedaAnimacion_7
+  - first:
+      213: 2661471887623967365
+    second: MonedaAnimacion_8
+  - first:
+      213: -3367193014073357347
+    second: MonedaAnimacion_9
+  - first:
+      213: 8420216033109945932
+    second: MonedaAnimacion_10
+  - first:
+      213: -7674222420463674336
+    second: MonedaAnimacion_11
+  - first:
+      213: -5000555707413547440
+    second: MonedaAnimacion_12
+  - first:
+      213: -1455443705665852366
+    second: MonedaAnimacion_13
+  - first:
+      213: 897483389723134035
+    second: MonedaAnimacion_14
+  - first:
+      213: -2935796958888297232
+    second: MonedaAnimacion_15
+  - first:
+      213: 5459711244253944534
+    second: MonedaAnimacion_16
+  - first:
+      213: -4999035146460955214
+    second: MonedaAnimacion_17
+  - first:
+      213: 6939998363955925587
+    second: MonedaAnimacion_18
+  - first:
+      213: 1795771761546010636
+    second: MonedaAnimacion_19
+  - first:
+      213: 3524480231069426472
+    second: MonedaAnimacion_20
+  - first:
+      213: 2376403142903154441
+    second: MonedaAnimacion_21
+  - first:
+      213: 741838849852577870
+    second: MonedaAnimacion_22
+  - first:
+      213: 1772422562020163248
+    second: MonedaAnimacion_23
+  - first:
+      213: -8899346286577802816
+    second: MonedaAnimacion_24
+  - first:
+      213: 3251922307540529562
+    second: MonedaAnimacion_25
+  - first:
+      213: -6267972375661856311
+    second: MonedaAnimacion_26
+  - first:
+      213: -7499823051186000344
+    second: MonedaAnimacion_27
+  - first:
+      213: -2334332413060983277
+    second: MonedaAnimacion_28
+  - first:
+      213: -4938329888211499115
+    second: MonedaAnimacion_29
+  - first:
+      213: -3384562049820191320
+    second: MonedaAnimacion_30
+  - first:
+      213: -2772262215499253257
+    second: MonedaAnimacion_31
+  - first:
+      213: -971742561937907285
+    second: MonedaAnimacion_32
+  - first:
+      213: -7341424416532062945
+    second: MonedaAnimacion_33
+  - first:
+      213: 3669759265478168677
+    second: MonedaAnimacion_34
+  - first:
+      213: 3862589529400291890
+    second: MonedaAnimacion_35
+  - first:
+      213: -5879210594054797385
+    second: MonedaAnimacion_36
+  - first:
+      213: 5651769565274942568
+    second: MonedaAnimacion_37
+  - first:
+      213: 7419280400744073342
+    second: MonedaAnimacion_38
+  - first:
+      213: -5146509263916795057
+    second: MonedaAnimacion_39
+  - first:
+      213: 5173197565831035096
+    second: MonedaAnimacion_40
+  - first:
+      213: 2773365365811957459
+    second: MonedaAnimacion_41
+  - first:
+      213: -9082407877789523140
+    second: MonedaAnimacion_42
+  - first:
+      213: -8960489634920862769
+    second: MonedaAnimacion_43
+  - first:
+      213: -773318419114919909
+    second: MonedaAnimacion_44
+  - first:
+      213: -4157004552456423250
+    second: MonedaAnimacion_45
+  - first:
+      213: -1414888721437275632
+    second: MonedaAnimacion_46
+  - first:
+      213: 494895505629670298
+    second: MonedaAnimacion_47
+  - first:
+      213: 2460418906954446689
+    second: MonedaAnimacion_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MonedaAnimacion_0
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 949
+        width: 37
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7dabd2ffee70430800000000000000
+      internalID: 3749227994560518110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAnimacion_1
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 951
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a74f505839feb680800000000000000
+      internalID: -8737272206790277207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAnimacion_2
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 933
+        width: 203
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e0be0412d96ea90800000000000000
+      internalID: -7284962581076570468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAnimacion_3
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 519
+        width: 311
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0dc4450c69b75d0800000000000000
+      internalID: -3063689368703282972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAnimacion_4
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 663
+        width: 99
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52b2cd77c8924ac0800000000000000
+      internalID: -3872364747009379749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAnimacion_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 576
+        width: 281
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b3d11f01c9d7140800000000000000
+      internalID: 4719099581132782394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAnimacion_6
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 653
+        height: 883
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a62341d02591300800000000000000
+      internalID: 223299872658451036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAnimacion_7
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 639
+        width: 51
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22494fe653c560150800000000000000
+      internalID: 5838455351496971298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAnimacion_8
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 675
+        width: 35
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582d389a4927fe420800000000000000
+      internalID: 2661471887623967365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAnimacion_9
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 777
+        width: 45
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb0bf93bc35541d0800000000000000
+      internalID: -3367193014073357347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAnimacion_10
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 677
+        width: 115
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e2191bedd9ad470800000000000000
+      internalID: 8420216033109945932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAnimacion_11
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 609
+        width: 85
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c9cec4e5faf7590800000000000000
+      internalID: -7674222420463674336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAnimacion_12
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 765
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056301404157a9ab0800000000000000
+      internalID: -5000555707413547440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAnimacion_13
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 774
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c653539a93dcbe0800000000000000
+      internalID: -1455443705665852366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAnimacion_14
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 787
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358c24c4360847c00800000000000000
+      internalID: 897483389723134035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAnimacion_15
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 805
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc7acc6834f147d0800000000000000
+      internalID: -2935796958888297232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAnimacion_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 225
+        width: 173
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da56f9237ac4cb40800000000000000
+      internalID: 5459711244253944534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAnimacion_17
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 29
+        width: 127
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd7083350cdf9ab0800000000000000
+      internalID: -4999035146460955214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAnimacion_18
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 421
+        width: 55
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35292690eb3df4060800000000000000
+      internalID: 6939998363955925587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAnimacion_19
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 343
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00a0a817ecdbe810800000000000000
+      internalID: 1795771761546010636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAnimacion_20
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 470
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823a7ceb81879e030800000000000000
+      internalID: 3524480231069426472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAnimacion_21
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 441
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9074dd7511eaaf020800000000000000
+      internalID: 2376403142903154441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAnimacion_22
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 326
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e481c06e08a8b4a00800000000000000
+      internalID: 741838849852577870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAnimacion_23
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 375
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be7911fde8e89810800000000000000
+      internalID: 1772422562020163248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAnimacion_24
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 127
+        width: 257
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1a65ff3bb2f7480800000000000000
+      internalID: -8899346286577802816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAnimacion_25
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 535
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a913f1afb16212d20800000000000000
+      internalID: 3251922307540529562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAnimacion_26
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 540
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9b6be5550b309a0800000000000000
+      internalID: -6267972375661856311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAnimacion_27
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 351
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ea5c3bba64be790800000000000000
+      internalID: -7499823051186000344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAnimacion_28
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 311
+        width: 45
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316d1d3c909ca9fd0800000000000000
+      internalID: -2334332413060983277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAnimacion_29
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 358
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597857d8127877bb0800000000000000
+      internalID: -4938329888211499115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAnimacion_30
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 565
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a513347fbe9701d0800000000000000
+      internalID: -3384562049820191320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAnimacion_31
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 535
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9fdecf332f689d0800000000000000
+      internalID: -2772262215499253257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAnimacion_32
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 0
+        width: 335
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba12096d94da382f0800000000000000
+      internalID: -971742561937907285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAnimacion_33
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 630
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d1a33c3650e1a90800000000000000
+      internalID: -7341424416532062945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAnimacion_34
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 223
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5605606db9a9de230800000000000000
+      internalID: 3669759265478168677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAnimacion_35
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 339
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2323c0d46bcaa9530800000000000000
+      internalID: 3862589529400291890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAnimacion_36
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 351
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b786a53d19d86ea0800000000000000
+      internalID: -5879210594054797385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAnimacion_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 87
+        width: 123
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ca39aa97e1f6e40800000000000000
+      internalID: 5651769565274942568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAnimacion_38
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 183
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e784e57273496f660800000000000000
+      internalID: 7419280400744073342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAnimacion_39
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 151
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b7bf2871de398b0800000000000000
+      internalID: -5146509263916795057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAnimacion_40
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 183
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8364007c3eac740800000000000000
+      internalID: 5173197565831035096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAnimacion_41
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 165
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dec7953b19fc7620800000000000000
+      internalID: 2773365365811957459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAnimacion_42
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 191
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c336523e72ec4f180800000000000000
+      internalID: -9082407877789523140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAnimacion_43
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 141
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcbe8f8d622f5a380800000000000000
+      internalID: -8960489634920862769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAnimacion_44
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 103
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18736abefe9445f0800000000000000
+      internalID: -773318419114919909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAnimacion_45
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 36
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea83721626a5f46c0800000000000000
+      internalID: -4157004552456423250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAnimacion_46
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 0
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a460a443e4d5ce0800000000000000
+      internalID: -1414888721437275632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAnimacion_47
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 15
+        width: 51
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b6efd17d83ed600800000000000000
+      internalID: 494895505629670298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAnimacion_48
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 0
+        width: 65
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167bca3c5f9252220800000000000000
+      internalID: 2460418906954446689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MonedaAnimacion_0: 3749227994560518110
+      MonedaAnimacion_1: -8737272206790277207
+      MonedaAnimacion_10: 8420216033109945932
+      MonedaAnimacion_11: -7674222420463674336
+      MonedaAnimacion_12: -5000555707413547440
+      MonedaAnimacion_13: -1455443705665852366
+      MonedaAnimacion_14: 897483389723134035
+      MonedaAnimacion_15: -2935796958888297232
+      MonedaAnimacion_16: 5459711244253944534
+      MonedaAnimacion_17: -4999035146460955214
+      MonedaAnimacion_18: 6939998363955925587
+      MonedaAnimacion_19: 1795771761546010636
+      MonedaAnimacion_2: -7284962581076570468
+      MonedaAnimacion_20: 3524480231069426472
+      MonedaAnimacion_21: 2376403142903154441
+      MonedaAnimacion_22: 741838849852577870
+      MonedaAnimacion_23: 1772422562020163248
+      MonedaAnimacion_24: -8899346286577802816
+      MonedaAnimacion_25: 3251922307540529562
+      MonedaAnimacion_26: -6267972375661856311
+      MonedaAnimacion_27: -7499823051186000344
+      MonedaAnimacion_28: -2334332413060983277
+      MonedaAnimacion_29: -4938329888211499115
+      MonedaAnimacion_3: -3063689368703282972
+      MonedaAnimacion_30: -3384562049820191320
+      MonedaAnimacion_31: -2772262215499253257
+      MonedaAnimacion_32: -971742561937907285
+      MonedaAnimacion_33: -7341424416532062945
+      MonedaAnimacion_34: 3669759265478168677
+      MonedaAnimacion_35: 3862589529400291890
+      MonedaAnimacion_36: -5879210594054797385
+      MonedaAnimacion_37: 5651769565274942568
+      MonedaAnimacion_38: 7419280400744073342
+      MonedaAnimacion_39: -5146509263916795057
+      MonedaAnimacion_4: -3872364747009379749
+      MonedaAnimacion_40: 5173197565831035096
+      MonedaAnimacion_41: 2773365365811957459
+      MonedaAnimacion_42: -9082407877789523140
+      MonedaAnimacion_43: -8960489634920862769
+      MonedaAnimacion_44: -773318419114919909
+      MonedaAnimacion_45: -4157004552456423250
+      MonedaAnimacion_46: -1414888721437275632
+      MonedaAnimacion_47: 494895505629670298
+      MonedaAnimacion_48: 2460418906954446689
+      MonedaAnimacion_5: 4719099581132782394
+      MonedaAnimacion_6: 223299872658451036
+      MonedaAnimacion_7: 5838455351496971298
+      MonedaAnimacion_8: 2661471887623967365
+      MonedaAnimacion_9: -3367193014073357347
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

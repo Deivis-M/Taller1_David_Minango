@@ -123,14 +123,14 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.6353358, y: 0.23945011}
+      pivot: {x: 0.6747815, y: 0.20037428}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 4f16a70a0e73f3260800000000000000
+      spriteID: 1bcc9ce5cbfddc247bbe5a64e4635825
       internalID: 7079438577154286068
       vertices: []
       indices: 
@@ -145,14 +145,14 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.6372733, y: 0.3951809}
+      pivot: {x: 0.66229725, y: 0.41260898}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 54d3eda503ed8f210800000000000000
+      spriteID: 1449f524b032b2c4291251036aedc5a4
       internalID: 1367086786171256133
       vertices: []
       indices: 
@@ -167,14 +167,14 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.63199973, y: 0.45318985}
+      pivot: {x: 0.6373284, y: 0.4500622}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a5fa0e592a3946030800000000000000
+      spriteID: add3b6b4dbe3dac488cdbaceeb4281e8
       internalID: 3487074338000121690
       vertices: []
       indices: 
@@ -189,14 +189,14 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.66364074, y: 0.4848311}
+      pivot: {x: 0.6498127, y: 0.49999976}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 5ff3d83427c75b3f0800000000000000
+      spriteID: 81d4fc9a7461add43a66a394ca4c7d92
       internalID: -885664921506988043
       vertices: []
       indices: 
@@ -211,14 +211,14 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.663641, y: 0.44791633}
+      pivot: {x: 0.6747813, y: 0.42509338}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 0e71f4f19397444c0800000000000000
+      spriteID: ce948baa58aabcc48823d5c76f317a1b
       internalID: -4304182057613977632
       vertices: []
       indices: 
@@ -233,14 +233,14 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.66364145, y: 0.20005986}
+      pivot: {x: 0.6747818, y: 0.21285868}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b39a9dc0f924cff20800000000000000
+      spriteID: 6a757f990cea5644dacce26fefb67f68
       internalID: 3457711864796522811
       vertices: []
       indices: 
@@ -260,7 +260,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries:
       - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5687171220779419,"y":0.36881309747695925},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":9,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       JumpRojo_192x32_0: 7079438577154286068
       JumpRojo_192x32_1: 1367086786171256133
