@@ -1,0 +1,320 @@
+fileFormatVersion: 2
+guid: 1b10e10ea79efae469843e28efc0981e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4154649997342763011
+    second: ChatGPT Image 12 sept 2026, 05_56_34 p.m._0
+  - first:
+      213: 7592201146784651977
+    second: ChatGPT Image 12 sept 2026, 05_56_34 p.m._1
+  - first:
+      213: 7024687161267375702
+    second: ChatGPT Image 12 sept 2026, 05_56_34 p.m._2
+  - first:
+      213: -653616175792329765
+    second: ChatGPT Image 12 sept 2026, 05_56_34 p.m._3
+  - first:
+      213: 3175124473442965076
+    second: ChatGPT Image 12 sept 2026, 05_56_34 p.m._4
+  - first:
+      213: 2689048892285275448
+    second: ChatGPT Image 12 sept 2026, 05_56_34 p.m._5
+  - first:
+      213: 9208323522252353164
+    second: ChatGPT Image 12 sept 2026, 05_56_34 p.m._6
+  - first:
+      213: -2852967405679056693
+    second: ChatGPT Image 12 sept 2026, 05_56_34 p.m._7
+  - first:
+      213: -5852689310209614781
+    second: ChatGPT Image 12 sept 2026, 05_56_34 p.m._8
+  - first:
+      213: 3668819452543445831
+    second: ChatGPT Image 12 sept 2026, 05_56_34 p.m._9
+  - first:
+      213: -6636902429786301416
+    second: ChatGPT Image 12 sept 2026, 05_56_34 p.m._10
+  - first:
+      213: -3626903488815212895
+    second: ChatGPT Image 12 sept 2026, 05_56_34 p.m._11
+  - first:
+      213: -1877743141685701244
+    second: ChatGPT Image 12 sept 2026, 05_56_34 p.m._12
+  - first:
+      213: 7636422571982054056
+    second: ChatGPT Image 12 sept 2026, 05_56_34 p.m._13
+  - first:
+      213: 2717797284960823711
+    second: ChatGPT Image 12 sept 2026, 05_56_34 p.m._14
+  - first:
+      213: 5945563727062714519
+    second: ChatGPT Image 12 sept 2026, 05_56_34 p.m._15
+  - first:
+      213: -8427037369310223010
+    second: ChatGPT Image 12 sept 2026, 05_56_34 p.m._16
+  - first:
+      213: -7835489919135461506
+    second: ChatGPT Image 12 sept 2026, 05_56_34 p.m._17
+  - first:
+      213: 4319480083368166791
+    second: ChatGPT Image 12 sept 2026, 05_56_34 p.m._18
+  - first:
+      213: 8303621315749624503
+    second: ChatGPT Image 12 sept 2026, 05_56_34 p.m._19
+  - first:
+      213: -5648546133318955430
+    second: ChatGPT Image 12 sept 2026, 05_56_34 p.m._20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: enemigo1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 514
+        width: 510
+        height: 510
+      alignment: 9
+      pivot: {x: 0.5249866, y: 0.1608978}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7cbaf869f67e145aff06ade101b653
+      internalID: 871285793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigo1_1
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 514
+        width: 510
+        height: 510
+      alignment: 9
+      pivot: {x: 0.5249866, y: 0.1608978}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d357377602be36d4c933c35b6667e6b5
+      internalID: 1971945155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigo1_2
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 514
+        width: 510
+        height: 510
+      alignment: 9
+      pivot: {x: 0.5249866, y: 0.1608978}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c642f2d1ca1184eaeecb9075834abe
+      internalID: -1738393631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigo1_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 510
+        height: 510
+      alignment: 9
+      pivot: {x: 0.5249866, y: 0.1608978}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86fd15e45bfa92c4aaab66a23354a29e
+      internalID: -2123909916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigo1_4
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 4
+        width: 510
+        height: 510
+      alignment: 9
+      pivot: {x: 0.5249866, y: 0.1608978}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bde641ef243f4a429db0de3dc64ea1c
+      internalID: -90240742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigo1_5
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 4
+        width: 510
+        height: 510
+      alignment: 9
+      pivot: {x: 0.5249866, y: 0.1608978}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209f2f9b686f263418dcc16cac7cb8f1
+      internalID: 403741891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 584869dd5f55a7b47b48ff0e7c334dc5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":510.0,"y":510.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5249866247177124,"y":0.16089780628681184},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":9,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      enemigo1_0: 871285793
+      enemigo1_1: 1971945155
+      enemigo1_2: -1738393631
+      enemigo1_3: -2123909916
+      enemigo1_4: -90240742
+      enemigo1_5: 403741891
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
